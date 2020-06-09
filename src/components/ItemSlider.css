@@ -1,0 +1,53 @@
+.carousel-name{
+    font-family: 'Varela Round', sans-serif;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: 400;
+    text-align: center;
+    padding: 10px;
+    text-decoration: underline;
+}
+.listitem-arrow{
+    font-size: 3rem !important;
+}
+.img-item{
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.item-contain{
+    width: 75%;
+    height: auto;
+    overflow: auto;
+    background: azure;
+}
+.react-multi-carousel-item {
+    text-align: -webkit-center;
+}
+.pro-name{
+    margin-bottom: 10px;
+    padding: 10px;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 1.2rem;
+    line-height: 36px;
+    font-weight: 400;
+}
+.react-multi-carousel-list > button{
+    z-index: 99;
+}
+.react-multiple-carousel__arrow--left{
+    left: 0 !important;
+    margin-left: 1px;
+}
+.react-multiple-carousel__arrow--right{
+    right: 0 !important;
+    margin-right: 1px;
+}
+/* Code for responsive */
+@media (max-width: 769px) {
+    .item-contain{
+        width: 100%;
+    }
+}
