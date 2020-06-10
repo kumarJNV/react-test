@@ -84,7 +84,7 @@ class Header extends React.Component {
                     <div className="col-md-12 p-0">
                     <header className="header">
                         <Navbar collapseOnSelect expand="lg" bg="" variant="light">
-                            <Nav className="right-gap">
+                            <Nav>
                             </Nav>
                             <Navbar.Brand href="/">
                                <img src={logo} alt="logo" className="logo-img"></img>
@@ -99,7 +99,7 @@ class Header extends React.Component {
                                     <Link to="/skills" >Skills</Link>
                                     <Link to="/portfolio" >Portfolio</Link>
                                 </Nav>
-                                <Nav className="right-gap">
+                                <Nav>
                                 </Nav>
                             </Navbar.Collapse>
                             </Navbar>

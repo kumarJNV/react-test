@@ -1,145 +1,145 @@
 .App {
-  text-align: center;
+	text-align: center;
 }
 
 .App-logo {
-  height: 40vmin;
-  pointer-events: none;
+	height: 40vmin;
+	pointer-events: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+	.App-logo {
+		animation: App-logo-spin infinite 20s linear;
+	}
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+	background-color: #282c34;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px + 2vmin);
+	color: white;
 }
 
 .App-link {
-  color: #61dafb;
+	color: #61dafb;
 }
 
 @keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+	from {
+		transform: rotate(0deg);
+	}
+	to {
+		transform: rotate(360deg);
+	}
 }
 
 /* header css start */
-.header-container{
-  margin-bottom: 108px;;
+.header-container {
+	margin-bottom: 101px;
 }
-.header{
-  position: fixed;
-  width: 100%;
-  height: auto;
-  top: 0;
-  left: 0;
-  box-shadow: 0 1px 0 #ddd;
-  background: #fff;
-  z-index: 999;
+.header {
+	position: fixed;
+	width: 100%;
+	height: auto;
+	top: 0;
+	left: 0;
+	box-shadow: 0 1px 0 #ddd;
+	background: #fff;
+	z-index: 999;
 }
-.logo-btn{
-  max-width: 220px;
-  float: right;
-  padding: 3px;
+.logo-btn {
+	max-width: 220px;
+	float: right;
+	padding: 3px;
 }
 .logo-btn:focus {
-  outline: none !important;
-  outline-offset: none !important;
-  box-shadow: none !important;
+	outline: none !important;
+	outline-offset: none !important;
+	box-shadow: none !important;
 }
-.navbar-brand{
-  width: 210px;;
+.navbar-brand {
+	width: 210px;
 }
-.right-gap{
-  width: 10%;
+.right-gap {
+	width: 10%;
 }
-.logo-img{
-  width: 100%;
-  height: auto;
+.logo-img {
+	width: 100%;
+	height: auto;
 }
-.menu-content{
-  width: 100%;
-  height: 100%;
-  padding: 20px;
-  padding-right: 0;
+.menu-content {
+	width: 100%;
+	height: 100%;
+	padding: 20px;
+	padding-right: 0;
 }
-.navbar-nav > a{
-  position: relative;
-  color: #333;
-  font-style: italic;
-  padding: 15px;
+.navbar-nav > a {
+	position: relative;
+	color: #333;
+	font-style: italic;
+	padding: 15px;
 }
-.navbar-nav > a:hover{
-  color: #333;
-  text-decoration: none;
+.navbar-nav > a:hover {
+	color: #333;
+	text-decoration: none;
 }
-.nav-link.active{
-  color: black !important;
-  border-bottom: 1px solid #333 !important;
+.nav-link.active {
+	color: black !important;
+	border-bottom: 1px solid #333 !important;
 }
-.carousel-area{
-  max-width: 100% !important;
-  /* padding: 0 !important; */
-  /* margin-top: 108px; */
+.carousel-area {
+	max-width: 100% !important;
+	/* padding: 0 !important; */
+	/* margin-top: 108px; */
 }
-.carousel-caption{
-  font-family: 'Varela Round', sans-serif;
-  font-size: 28px;
-  line-height: 36px;
-  font-weight: 400;
+.carousel-caption {
+	font-family: 'Varela Round', sans-serif;
+	font-size: 28px;
+	line-height: 36px;
+	font-weight: 400;
 }
-.caption-text{
-  font-family: 'Varela Round', sans-serif;
-  font-size: 1rem;
-  line-height: 28px;
-  font-weight: 400;
+.caption-text {
+	font-family: 'Varela Round', sans-serif;
+	font-size: 1rem;
+	line-height: 28px;
+	font-weight: 400;
 }
 /* Footer css start */
-.desk-footer{
-  background: #11426a;
-    position: relative;
-    z-index: 6;
-    bottom: 0;
+.desk-footer {
+	background: #11426a;
+	position: relative;
+	z-index: 6;
+	bottom: 0;
 }
-.rights-reserved{
-  position: relative;
-  width: 100%;
-  height: 100px;
-  color: #fff;
-  text-align: center;
-  padding: 15px;
-  bottom: 0;
+.rights-reserved {
+	position: relative;
+	width: 100%;
+	height: 100px;
+	color: #fff;
+	text-align: center;
+	padding: 15px;
+	bottom: 0;
 }
-.rights-reserved > p{
-  font-family: 'Varela Round', sans-serif;
-  font-size: 14px;
-  line-height: 36px;
-  font-weight: 400;
-  margin-top: 1rem;
+.rights-reserved > p {
+	font-family: 'Varela Round', sans-serif;
+	font-size: 14px;
+	line-height: 36px;
+	font-weight: 400;
+	margin-top: 1rem;
 }
 /* responsive code start  */
 @media (max-width: 769px) {
-  .right-gap{
-    display: none !important;
-  }
-  .nav-link.active{
-    border-bottom: none !important;
-  }
-  .carousel-caption{
-    display: none;
-  }
+	.right-gap {
+		display: none !important;
+	}
+	.nav-link.active {
+		border-bottom: none !important;
+	}
+	.carousel-caption {
+		display: none;
+	}
 }
