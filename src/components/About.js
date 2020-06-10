@@ -28,12 +28,10 @@ class About extends React.Component {
                                         </div>
                                     </div>
                                 </div>
-                                <hr></hr>
                             </div>
                         </div>
                         <div className="content">
                                <Content />
-                            <hr></hr>
                         </div>
                     </div>
                 </div>

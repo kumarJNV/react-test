@@ -1,53 +1,64 @@
-.carousel-name{
-    font-family: 'Varela Round', sans-serif;
-    font-size: 28px;
-    line-height: 36px;
-    font-weight: 400;
-    text-align: center;
-    padding: 10px;
-    text-decoration: underline;
+.carousel-name {
+	font-family: 'Varela Round', sans-serif;
+	font-size: 28px;
+	line-height: 36px;
+	font-weight: 400;
+	text-align: center;
+	padding: 10px;
+	text-decoration: underline;
 }
-.listitem-arrow{
-    font-size: 3rem !important;
+.listitem-arrow {
+	font-size: 3rem !important;
 }
-.img-item{
-    width: 100%;
-    height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.img-item {
+	width: 100%;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
-.item-contain{
-    width: 75%;
-    height: auto;
-    overflow: auto;
-    background: azure;
+.item-contain {
+	width: 75%;
+	height: auto;
+	overflow: auto;
+	background: azure;
 }
 .react-multi-carousel-item {
-    text-align: -webkit-center;
+	text-align: -webkit-center;
 }
-.pro-name{
-    margin-bottom: 10px;
-    padding: 10px;
-    font-family: 'Varela Round', sans-serif;
-    font-size: 1.2rem;
-    line-height: 36px;
-    font-weight: 400;
+.pro-name {
+	margin-bottom: 10px;
+	padding: 10px;
+	font-family: 'Varela Round', sans-serif;
+	font-size: 1.2rem;
+	line-height: 36px;
+	font-weight: 400;
 }
-.react-multi-carousel-list > button{
-    z-index: 99;
+.react-multi-carousel-list > button {
+	z-index: 99;
 }
-.react-multiple-carousel__arrow--left{
-    left: 0 !important;
-    margin-left: 1px;
+.react-multiple-carousel__arrow--left {
+	left: 0 !important;
+	margin-left: 1px;
 }
-.react-multiple-carousel__arrow--right{
-    right: 0 !important;
-    margin-right: 1px;
+.react-multiple-carousel__arrow--right {
+	right: 0 !important;
+	margin-right: 1px;
 }
+.react-multi-carousel-dot-list {
+	bottom: 11px;
+}
+.react-multi-carousel-list {
+	padding-bottom: 40px;
+}
+.carousel-name h3 {
+	padding: 23px 0px 15px 0px;
+	text-decoration: none;
+}
+
 /* Code for responsive */
 @media (max-width: 769px) {
-    .item-contain{
-        width: 100%;
-    }
+	.item-contain {
+		width: 100%;
+	}
 }

@@ -62,7 +62,6 @@ class Skills extends React.Component {
                             </div>
                         </div>
                     </div>
-                    <hr></hr>
                 </div>
             </>
         );

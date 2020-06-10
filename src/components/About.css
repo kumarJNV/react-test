@@ -1,54 +1,54 @@
-.about-area{
-    background-color: #f8f8f8;
+.about-area {
+	background-color: #f8f8f8;
 }
-.about-heading{
-  display: block;
-  position: relative;
-  color: black;
-  font-family: 'Varela Round', sans-serif;
-  font-size: 28px;
-  line-height: 36px;
-  font-weight: 400;
-  padding: 15px;
-  text-decoration: underline;
+.about-heading {
+	display: block;
+	position: relative;
+	color: black;
+	font-family: 'Varela Round', sans-serif;
+	font-size: 28px;
+	line-height: 36px;
+	font-weight: 400;
+	padding: 15px;
+	text-decoration: underline;
 }
-.intro{
-    display: flex;
-    /* max-width: 600px; */
-    align-items: center;
-    text-align: center;
-    flex-direction: column;
-    justify-content: center;
-    text-align: center;
-    font-family: 'Varela Round', sans-serif;
+.intro {
+	display: flex;
+	/* max-width: 600px; */
+	align-items: center;
+	text-align: center;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	font-family: 'Varela Round', sans-serif;
 }
-.intro-sec{
-    padding: 10px;
+.intro-sec {
+	padding: 10px;
 }
-.intro > h1{
-    padding: 10px;
+.intro > h1 {
+	padding: 10px;
 }
-.intro > a{
-    font-size: 1rem;
-    font-family: 'Varela Round', sans-serif;
-    color: black;
-    text-decoration: underline;
+.intro > a {
+	font-size: 1rem;
+	font-family: 'Varela Round', sans-serif;
+	color: black;
+	text-decoration: underline;
 }
-.title{
-    margin-bottom: 15px;
-    margin-top: 15px;
-    font-size: 1rem;
-    line-height: 16px;
-    font-weight: 600;
-    color: darkgreen;
+.title {
+	margin-bottom: 15px;
+	margin-top: 15px;
+	font-size: 1rem;
+	line-height: 16px;
+	font-weight: 600;
+	color: darkgreen;
 }
-.text-grey{
-    max-width: 600px;
-    color: #999;
-    margin-bottom: 28px;
-    font-family: 'Varela Round', sans-serif;
-    font-size: 14px;
-    line-height: 24px;
-    justify-content: center;
-    text-align: center;
+.text-grey {
+	max-width: 600px;
+	color: #999;
+	margin-bottom: 28px;
+	font-family: 'Varela Round', sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+	justify-content: center;
+	text-align: center;
 }

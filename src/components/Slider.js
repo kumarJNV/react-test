@@ -1,9 +1,6 @@
 import React from 'react';
 import '../App.css';
 import Carousel from 'react-bootstrap/Carousel';
-// import Col from 'react-bootstrap/Col';
-// import Row from 'react-bootstrap/Row';
-import Container from 'react-bootstrap/Container'
 import slider1 from '../media/slider1.jfif';
 import slider2 from '../media/slider2.jfif';
 import slider3 from '../media/slider3.jfif';
@@ -14,7 +11,7 @@ class Slider extends React.Component {
     render() {
         return (
             <>
-                <Container className="carousel-area">
+                <div className="carousel-area">
                     <div>
                         <div>
                             <Carousel>
@@ -54,7 +51,7 @@ class Slider extends React.Component {
                             </Carousel>
                         </div>
                     </div>
-                </Container>
+                </div>
             </>
         );
     }

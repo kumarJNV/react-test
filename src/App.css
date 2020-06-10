@@ -39,7 +39,7 @@
 
 /* header css start */
 .header-container {
-	margin-bottom: 101px;
+	margin-bottom: 73px;
 }
 .header {
 	position: fixed;
@@ -68,7 +68,7 @@
 	width: 10%;
 }
 .logo-img {
-	width: 100%;
+	width: 84%;
 	height: auto;
 }
 .menu-content {
@@ -97,10 +97,23 @@
 	/* margin-top: 108px; */
 }
 .carousel-caption {
+	position: absolute;
+	right: 0;
+	bottom: 0px;
+	left: 0;
+	z-index: 10;
+	padding-top: 20px;
+	padding-bottom: 27px;
+	color: #fff;
+	text-align: center;
+	background: rgba(0, 0, 0, .6);
 	font-family: 'Varela Round', sans-serif;
 	font-size: 28px;
 	line-height: 36px;
 	font-weight: 400;
+}
+.carousel-indicators {
+	bottom: -14px;
 }
 .caption-text {
 	font-family: 'Varela Round', sans-serif;
@@ -108,6 +121,27 @@
 	line-height: 28px;
 	font-weight: 400;
 }
+.navbar {
+	position: relative;
+	padding: 0rem 1rem;
+}
+.navbar-brand {
+	display: inline-block;
+	padding-top: .3rem;
+	padding-bottom: .3rem;
+}
+.navbar-nav > a {
+	padding: 15px;
+	font-style: normal;
+	font-size: 18px;
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+	display: inline-block;
+	width: 33px;
+	height: 33px;
+}
+
 /* Footer css start */
 .desk-footer {
 	background: #11426a;
@@ -118,7 +152,7 @@
 .rights-reserved {
 	position: relative;
 	width: 100%;
-	height: 100px;
+	height: 51px;
 	color: #fff;
 	text-align: center;
 	padding: 15px;
@@ -127,9 +161,10 @@
 .rights-reserved > p {
 	font-family: 'Varela Round', sans-serif;
 	font-size: 14px;
-	line-height: 36px;
+	line-height: 22px;
 	font-weight: 400;
-	margin-top: 1rem;
+	margin-top: 0;
+	margin-bottom: 0;
 }
 /* responsive code start  */
 @media (max-width: 769px) {
