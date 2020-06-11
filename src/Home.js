@@ -18,10 +18,10 @@ class Home extends React.Component {
                         <Header />
                     </div>
                     <Switch>
-                        <Route exact path="/" component={HomePage} />
-                        <Route exact path="/about" component={About} />
-                        <Route exact path="/skills" component={Skills} />
-                        <Route exact path="/portfolio" component={Portfolio} />
+                        <Route exact path={ process.env.PUBLIC_URL + '/'} component={HomePage} />
+                        <Route  path={process.env.PUBLIC_URL + '/about'} component={About} />
+                        <Route  path={process.env.PUBLIC_URL + '/skills'} component={Skills} />
+                        <Route  path={process.env.PUBLIC_URL + '/portfolio'} component={Portfolio} />
                     </Switch>
                     <div className="footer-container">
                         <Footer />
