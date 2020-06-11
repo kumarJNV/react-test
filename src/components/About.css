@@ -10,7 +10,7 @@
 	line-height: 36px;
 	font-weight: 400;
 	padding: 15px;
-	text-decoration: underline;
+	text-decoration: none;
 }
 .intro {
 	display: flex;

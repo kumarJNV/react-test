@@ -84,7 +84,7 @@
 	padding: 15px;
 }
 .navbar-nav > a:hover {
-	color: #333;
+	color: red;
 	text-decoration: none;
 }
 .nav-link.active {
@@ -144,10 +144,10 @@
 
 /* Footer css start */
 .desk-footer {
-	background: #11426a;
 	position: relative;
 	z-index: 6;
 	bottom: 0;
+	background: #000000;
 }
 .rights-reserved {
 	position: relative;

@@ -6,7 +6,7 @@ import HomePage from './components/HomePage.js';
 import About from './components/About.js';
 import Skills from './components/Skills.js';
 import Portfolio from './components/Portfolio.js';
-import { BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+import { HashRouter as Router, Route } from 'react-router-dom';
 
 
 class Home extends React.Component {
