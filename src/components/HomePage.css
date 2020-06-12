@@ -39,8 +39,8 @@
 	font-family: 'Varela Round', sans-serif;
 	font-weight: 400;
 	margin-bottom: 14px;
-	font-size: 1rem;
-	line-height: 25px;
+	font-size: .9rem;
+	line-height: 20px;
 }
 .about-site {
 	font-family: 'Varela Round', sans-serif;
@@ -52,4 +52,7 @@
 	background: rgba(0, 0, 0, .6);
 	padding: 28px 13px;
 	border: 2px solid #fff;
+}
+.about-site h3 {
+	font-size: 1.35rem;
 }

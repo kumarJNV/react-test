@@ -54,8 +54,9 @@
 	padding-left: 47px;
 }
 .carousel-name h3 {
-	padding: 23px 0px 15px 0px;
 	text-decoration: none;
+	font-size: 1.35rem;
+	padding: 13px 0 0px;
 }
 
 /* Code for responsive */

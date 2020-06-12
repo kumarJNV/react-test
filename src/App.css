@@ -135,6 +135,9 @@
 	font-style: normal;
 	font-size: 18px;
 }
+.navbar-nav > a.active {
+	color: red;
+}
 .carousel-control-next-icon,
 .carousel-control-prev-icon {
 	display: inline-block;
@@ -176,5 +179,10 @@
 	}
 	.carousel-caption {
 		display: none;
+	}
+}
+@media (max-width: 560px) {
+	.rights-reserved > p {
+		font-size: 12px;
 	}
 }
