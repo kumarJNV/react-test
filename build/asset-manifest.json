@@ -1,36 +1,36 @@
 {
   "files": {
     "main.css": "/react-test/static/css/main.d319d9f7.chunk.css",
-    "main.js": "/react-test/static/js/main.65a193a7.chunk.js",
-    "main.js.map": "/react-test/static/js/main.65a193a7.chunk.js.map",
+    "main.js": "/react-test/static/js/main.8cf11f8f.chunk.js",
+    "main.js.map": "/react-test/static/js/main.8cf11f8f.chunk.js.map",
     "runtime-main.js": "/react-test/static/js/runtime-main.dd6ab9f4.js",
     "runtime-main.js.map": "/react-test/static/js/runtime-main.dd6ab9f4.js.map",
     "static/css/2.75340951.chunk.css": "/react-test/static/css/2.75340951.chunk.css",
     "static/js/2.b4a5621a.chunk.js": "/react-test/static/js/2.b4a5621a.chunk.js",
     "static/js/2.b4a5621a.chunk.js.map": "/react-test/static/js/2.b4a5621a.chunk.js.map",
     "index.html": "/react-test/index.html",
-    "precache-manifest.95f976d2fffd3b52184f4788b812d1dd.js": "/react-test/precache-manifest.95f976d2fffd3b52184f4788b812d1dd.js",
+    "precache-manifest.dcebb5d7ae94ea5a78fd2b26a9ecac3c.js": "/react-test/precache-manifest.dcebb5d7ae94ea5a78fd2b26a9ecac3c.js",
     "service-worker.js": "/react-test/service-worker.js",
     "static/css/2.75340951.chunk.css.map": "/react-test/static/css/2.75340951.chunk.css.map",
     "static/css/main.d319d9f7.chunk.css.map": "/react-test/static/css/main.d319d9f7.chunk.css.map",
     "static/js/2.b4a5621a.chunk.js.LICENSE.txt": "/react-test/static/js/2.b4a5621a.chunk.js.LICENSE.txt",
+    "static/media/cards.jfif": "/react-test/static/media/cards.b7b0d152.jfif",
     "static/media/desc.jpeg": "/react-test/static/media/desc.1c91d2a7.jpeg",
     "static/media/dog.png": "/react-test/static/media/dog.fba44d7a.png",
+    "static/media/envelope.jfif": "/react-test/static/media/envelope.5dbf6393.jfif",
     "static/media/little.png": "/react-test/static/media/little.615ba1ae.png",
     "static/media/mega.png": "/react-test/static/media/mega.d1b3b758.png",
     "static/media/styles.css": "/react-test/static/media/revicons.2feb69cc.eot",
-    "static/media/slider1.jfif": "/react-test/static/media/slider1.8275ca74.jfif",
-    "static/media/slider2.jfif": "/react-test/static/media/slider2.b34b04f0.jfif",
-    "static/media/slider3.jfif": "/react-test/static/media/slider3.5f7a2f17.jfif",
     "static/media/smarso_logo.png": "/react-test/static/media/smarso_logo.a7504baf.png",
     "static/media/tedd.png": "/react-test/static/media/tedd.36c70af6.png",
-    "static/media/teddy.jpg": "/react-test/static/media/teddy.50124c84.jpg"
+    "static/media/teddy.jpg": "/react-test/static/media/teddy.50124c84.jpg",
+    "static/media/writing.jfif": "/react-test/static/media/writing.4bbf0690.jfif"
   },
   "entrypoints": [
     "static/js/runtime-main.dd6ab9f4.js",
     "static/css/2.75340951.chunk.css",
     "static/js/2.b4a5621a.chunk.js",
     "static/css/main.d319d9f7.chunk.css",
-    "static/js/main.65a193a7.chunk.js"
+    "static/js/main.8cf11f8f.chunk.js"
   ]
 }
