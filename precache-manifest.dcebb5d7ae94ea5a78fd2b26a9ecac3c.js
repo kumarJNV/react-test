@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e704f86cf4e8bd55fc4314f3c625178c",
+    "revision": "0e389f78420c38d46e5ce725dfef2cf6",
     "url": "/react-test/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-test/static/css/2.75340951.chunk.css"
   },
   {
-    "revision": "f3d16d444e9499db6c30",
+    "revision": "8344e9006795627107de",
     "url": "/react-test/static/css/main.d319d9f7.chunk.css"
   },
   {
@@ -20,12 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-test/static/js/2.b4a5621a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f3d16d444e9499db6c30",
-    "url": "/react-test/static/js/main.65a193a7.chunk.js"
+    "revision": "8344e9006795627107de",
+    "url": "/react-test/static/js/main.8cf11f8f.chunk.js"
   },
   {
     "revision": "b3562494391ca3fd9445",
     "url": "/react-test/static/js/runtime-main.dd6ab9f4.js"
+  },
+  {
+    "revision": "b7b0d152369addff14e8dd834c1e2fdf",
+    "url": "/react-test/static/media/cards.b7b0d152.jfif"
   },
   {
     "revision": "1c91d2a7c3011bd103b85f4e06ba424e",
@@ -34,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fba44d7a0f88becee3ae67359acb8d2d",
     "url": "/react-test/static/media/dog.fba44d7a.png"
+  },
+  {
+    "revision": "5dbf639394fbe1ee1fdc26dc870ee914",
+    "url": "/react-test/static/media/envelope.5dbf6393.jfif"
   },
   {
     "revision": "615ba1aee4ef9db468c5197c83a836bf",
@@ -56,18 +64,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-test/static/media/revicons.2feb69cc.eot"
   },
   {
-    "revision": "8275ca748df392cdd9f981e0a324e1d8",
-    "url": "/react-test/static/media/slider1.8275ca74.jfif"
-  },
-  {
-    "revision": "b34b04f017d1e2d9b6f66620743d101d",
-    "url": "/react-test/static/media/slider2.b34b04f0.jfif"
-  },
-  {
-    "revision": "5f7a2f1775f7dc4784822807d6631e14",
-    "url": "/react-test/static/media/slider3.5f7a2f17.jfif"
-  },
-  {
     "revision": "a7504baf0e099df8c767fa7d62d25b5b",
     "url": "/react-test/static/media/smarso_logo.a7504baf.png"
   },
@@ -78,5 +74,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "50124c84ec0f1d25eed566d36608be8a",
     "url": "/react-test/static/media/teddy.50124c84.jpg"
+  },
+  {
+    "revision": "4bbf0690df6a7c553de930b0f5591199",
+    "url": "/react-test/static/media/writing.4bbf0690.jfif"
   }
 ]);
